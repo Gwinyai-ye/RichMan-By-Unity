@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ye\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ye\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_FUweng.1794743860.00" t="ExcludeRecursive" />
+    <e p="D:\UnityPoject\FUweng" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CardColliders.cs" t="Include" />
+        <e p="CardRote.cs" t="Include" />
+        <e p="GoWith.cs" t="Include" />
+        <e p="JSON" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JSONChecker.cs" t="Include" />
+          </e>
+          <e p="JSONObject.cs" t="Include" />
+          <e p="readme.txt" t="Include" />
+          <e p="VectorTemplates.cs" t="Include" />
+        </e>
+        <e p="ModelOne" t="Include">
+          <e p="Unity-chan! Model" t="Include">
+            <e p="Art" t="Include">
+              <e p="Stage" t="Include">
+                <e p="Shader" t="Include">
+                  <e p="AlphaMask.shader" t="Include" />
+                </e>
+              </e>
+              <e p="UnityChanShader" t="Include">
+                <e p="Shader" t="Include">
+                  <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_eye.shader" t="Include" />
+                  <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_fuku.shader" t="Include" />
+                  <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+                  <e p="Unitychan_chara_hada.shader" t="Include" />
+                  <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+                  <e p="Unitychan_chara_hair.shader" t="Include" />
+                  <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Audio" t="Include">
+              <e p="Voice" t="Include">
+                <e p="unity-chan_voice_list.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="CreateLocatorHere.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ModelTwo" t="Include">
+          <e p="SapphiArtchan" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="AnimationManagerUI.cs" t="Include" />
+              <e p="SapphiArtChan_AnimManager.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="ButtonSoundsEditor" t="Include">
+            <e p="ButtonClickSound.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ButtonSoundsEditor.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="root.cs" t="Include" />
+        <e p="Script" t="Include">
+          <e p="ArcClass" t="Include">
+            <e p="ArcBaseInfo.cs" t="Include" />
+            <e p="ArcHotel.cs" t="Include" />
+            <e p="ArcHouse.cs" t="Include" />
+            <e p="ArcRestaurant.cs" t="Include" />
+          </e>
+          <e p="ArcManger" t="Include">
+            <e p="ArcManger.cs" t="Include" />
+            <e p="ArcType.cs" t="Include" />
+          </e>
+          <e p="Cards" t="Include">
+            <e p="Card.cs" t="Include" />
+            <e p="CardManger.cs" t="Include" />
+            <e p="CardUI.cs" t="Include" />
+            <e p="ToolTip.cs" t="Include" />
+          </e>
+          <e p="PanelClass" t="Include">
+            <e p="BagPanel.cs" t="Include" />
+            <e p="IsCreate.cs" t="Include" />
+            <e p="IsUpdate.cs" t="Include" />
+            <e p="MainPanel.cs" t="Include" />
+            <e p="MessagePanel.cs" t="Include" />
+            <e p="PlayerPanel.cs" t="Include" />
+            <e p="SystemPanel.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="AIinfo.cs" t="Include" />
+            <e p="PlayerAction.cs" t="Include" />
+            <e p="PlayerInfo.cs" t="Include" />
+            <e p="PlayerManger.cs" t="Include" />
+            <e p="PlayerName.cs" t="Include" />
+          </e>
+          <e p="SceneManger" t="Include">
+            <e p="ToScene.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Simple city plain" t="Include">
+          <e p="Read_me.txt" t="Include" />
+        </e>
+        <e p="Slot.cs" t="Include" />
+        <e p="SU3DJPFont" t="Include">
+          <e p="Demo" t="Include">
+            <e p="SampleScene.cs" t="Include" />
+          </e>
+          <e p="Fonts" t="Include">
+            <e p="MPlusTestflight60" t="Include">
+              <e p="LICENSE_E.txt" t="Include" />
+              <e p="LICENSE_J.txt" t="Include" />
+              <e p="README_E.txt" t="Include" />
+              <e p="README_J.txt" t="Include" />
+            </e>
+          </e>
+          <e p="license.txt" t="Include" />
+          <e p="license_jp.txt" t="Include" />
+          <e p="list.txt" t="Include" />
+          <e p="readme.txt" t="Include" />
+          <e p="readme_jp.txt" t="Include" />
+        </e>
+        <e p="tog.cs" t="Include" />
+        <e p="UIFrame" t="Include">
+          <e p="BasePanel" t="Include">
+            <e p="BasePanel.cs" t="Include" />
+          </e>
+          <e p="UIManager" t="Include">
+            <e p="CanvasManger.cs" t="Include" />
+          </e>
+          <e p="UIPanel" t="Include">
+            <e p="UIPanelInfo.cs" t="Include" />
+            <e p="UIPanelType.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="FUweng.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

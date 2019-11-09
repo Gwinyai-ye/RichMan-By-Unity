@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "宝藏卡",
+    "type": "ToMySelf",
+    "quality": "Common",
+    "description": "可以获得一定量的金钱",
+    "capacity": 10,
+    "power": 10,
+    "sprite": "Sprites/Mine"
+  },
+  {
+    "id": 2,
+    "name": "锦鳞卡",
+    "type": "ToEnemy",
+    "quality": "Rare",
+    "description": "消耗敌人一定量的体力",
+    "capacity": 10,
+    "power": 10,
+    "sprite": "Sprites/KoiFish"
+  },
+  {
+    "id": 3,
+    "name": "财神",
+    "type": "ToMySelf",
+    "quality": "Legendary",
+    "description": "可以获得大量的金钱",
+    "capacity": 10,
+    "power": 20,
+    "sprite": "Sprites/WealthGod"
+  },
+  
+  {
+    "id": 4,
+    "name": "五福临门",
+    "type": "ToArc",
+    "quality": "Epic",
+    "description": "可让指定建筑升级",
+    "capacity": 10,
+    "power": 20,
+    "sprite": "Sprites/WealthDoor"
+  },
+  {
+    "id":5,
+    "name": "财运猪",
+    "type": "ToPost",
+    "quality": "Artifact",
+    "description": "可移动到指定地点",
+    "capacity": 10,
+    "power": 30,
+    "sprite": "Sprites/WealthPig"
+  }
+  
+]

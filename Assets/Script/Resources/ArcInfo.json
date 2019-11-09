@@ -1,0 +1,22 @@
+
+  [
+    {
+      "createCost": 500,
+      "updateCost":400, 
+      "ArcType":"House",
+      "path":"Architecture/House"
+    },
+
+    {
+      "createCost": 500,
+      "updateCost":400,
+      "ArcType":"Hotel",
+      "path":"Architecture/Hotel"},
+
+    {
+      "createCost": 500,
+      "updateCost":400,
+      "ArcType":"Restaurant",
+      "path":"Architecture/Restaurant"}
+    
+  ]

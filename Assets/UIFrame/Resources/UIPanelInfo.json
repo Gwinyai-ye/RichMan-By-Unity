@@ -1,0 +1,25 @@
+{
+  "infoList":
+  [
+    {"panelTypeString":"Main",
+      "path":"UIPanel/MainPanel"},
+    
+    {"panelTypeString":"Bag",
+      "path":"UIPanel/BagPanel"},
+
+    {"panelTypeString":"System",
+      "path":"UIPanel/SystemPanel"},
+
+    {"panelTypeString":"Player",
+      "path":"UIPanel/PlayerPanel"},
+
+    {"panelTypeString":"IsCreate",
+      "path":"UIPanel/IsCreate"},
+    
+    {"panelTypeString":"IsUpdate",
+      "path":"UIPanel/IsUpdate"},
+    {"panelTypeString":"Message",
+      "path":"UIPanel/MessagePanel"}
+  ]
+}
+
